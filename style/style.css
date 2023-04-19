@@ -1,0 +1,17 @@
+.no-decor:link, .no-decor:visited {
+    text-decoration:none;
+    color:white;
+}
+.no-decor:active, .no-decor:hover {
+    color:grey;
+    text-decoration: none;
+}
+
+.decor:link, .no-decor:visited {
+    text-decoration:none;
+    color:black;
+}
+.decor:active, .no-decor:hover {
+    color:grey;
+    text-decoration: none;
+}
